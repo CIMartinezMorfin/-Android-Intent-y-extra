@@ -1,0 +1,1 @@
+compartir parametros entre activities por medio del extra en el intent

@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Examen 1</string>
+    <string-array name="listView">
+        <item>
+            Seleccion Uno
+        </item>
+        <item>
+            Seleccion Dos
+        </item>
+        <item>
+            Seleccion Tres
+        </item>
+    </string-array>
+</resources>
